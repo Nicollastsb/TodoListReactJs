@@ -1,0 +1,93 @@
+.task {            
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--gray-500);
+    width: 46rem;
+    height: 4.5rem;
+    
+    border: 1px solid var(--gray-400);
+    border-radius: 0.5rem;
+    color: var(--gray-100);
+    padding: 1rem;
+}
+
+.checkBoxContent {            
+    display: flex;
+    justify-content: space-between; /* Adjust as needed */
+    align-items: center; /* Optional: To center the content vertically */
+ 
+    gap: 1rem;
+}
+
+.checkBoxDone{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.spanContent{
+    word-wrap: break-word;
+    max-width: 39rem;
+    font-size: 0.875rem; 
+}
+
+.task button {
+    background: transparent;
+    border: 0;
+    color: var(--gray-300);
+    cursor: pointer;
+    align-items: center;
+  
+    border-radius: 2px;
+}
+
+.task button:hover {
+    color: var(--danger);
+}
+
+.spanTextContent{
+    text-decoration: line-through;
+    color: var(--gray-300);
+    transition:  0.1s;
+}
+
+.container label {
+    display: flex;
+    padding: 3px;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+.checkBoxDone label input[type='checkbox'] {
+    display: none;
+  }
+  
+.checkbox {
+    border-radius: 100%;
+    height: 1.125rem;
+    width: 1.125rem;
+  
+    transition: 0.2s all;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .checkbox-unchecked {
+    border: 2px solid var(--blue);
+  }
+  
+  .checkbox-unchecked:hover {
+    background-color: rgba(30, 111, 159, 0.2);
+  }
+  
+  .checkbox-checked {
+    border: 2px solid var(--purple-dark);
+    background-color: var(--purple-dark);
+  }
+  
+  .checkbox-checked:hover {
+    border: 2px solid var(--purple);
+    background-color: var(--purple);
+  }
