@@ -8,7 +8,7 @@ Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no e
 - Remover uma tarefa da listagem
 - Mostrar o progresso de conclusão das tarefas
 
-Apesar de serem poucas funcionalidades, você vai precisar relembrar conceitos como:
+Estarão presentes conceitos como:
 - Estados
 - Imutabilidade do estado
 - Listas e chaves no ReactJS
