@@ -15,4 +15,4 @@ Estarão presentes conceitos como:
 - Propriedades
 - Componentização
 
-[Figma com o front-end do projeto]([https://pages.github.com/](https://www.figma.com/community/file/1138814951106121051)https://www.figma.com/community/file/1138814951106121051)
+[Figma com o front-end do projeto](https://www.figma.com/file/GyLroqEoGd784fOFgLLPiD/ToDo-List-%E2%80%A2-Desafio-React-(Copy)?type=design&node-id=56-96&mode=design&t=aLCDxSs13ekh6kuG-0)
