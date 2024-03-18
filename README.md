@@ -16,3 +16,5 @@ Estarão presentes conceitos como:
 - Componentização
 
 [Figma com o front-end do projeto](https://www.figma.com/file/GyLroqEoGd784fOFgLLPiD/ToDo-List-%E2%80%A2-Desafio-React-(Copy)?type=design&node-id=56-96&mode=design&t=aLCDxSs13ekh6kuG-0)
+
+![Home page do projeto](https://media.licdn.com/dms/image/D4D2DAQFdZsjRTDd6KQ/profile-treasury-image-shrink_800_800/0/1710725237679?e=1711332000&v=beta&t=PKi5ZSJQ11OC4PrM6qyGZCVJyxJ62bdXZeR8VZHBlf8)
