@@ -1,30 +1,20 @@
-# React + TypeScript + Vite
+# Desafio 01 - Praticando os conceitos do ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sobre o desafio
 
-Currently, two official plugins are available:
+Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
+- Adicionar uma nova tarefa
+- Marcar e desmarcar uma tarefa como concluída
+- Remover uma tarefa da listagem
+- Mostrar o progresso de conclusão das tarefas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Estarão presentes conceitos como:
+- Estados
+- Imutabilidade do estado
+- Listas e chaves no ReactJS
+- Propriedades
+- Componentização
 
-## Expanding the ESLint configuration
+[Figma com o front-end do projeto](https://www.figma.com/file/GyLroqEoGd784fOFgLLPiD/ToDo-List-%E2%80%A2-Desafio-React-(Copy)?type=design&node-id=56-96&mode=design&t=aLCDxSs13ekh6kuG-0)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![Home page do projeto](https://media.licdn.com/dms/image/D4D2DAQFdZsjRTDd6KQ/profile-treasury-image-shrink_800_800/0/1710725237679?e=1711332000&v=beta&t=PKi5ZSJQ11OC4PrM6qyGZCVJyxJ62bdXZeR8VZHBlf8)
